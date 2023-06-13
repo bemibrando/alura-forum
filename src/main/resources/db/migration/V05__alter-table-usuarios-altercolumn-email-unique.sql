@@ -1,0 +1,1 @@
+alter table usuarios add constraint unique_email unique(email);
